@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "name":" zandu balm",
+        "price": 200,
+        "image": "zandu balm.webp"
+    },
+    {
+        "id": 2,
+        "name":" Volini pain relief",
+        "price": 250,
+        "image": "volinipainrelief.webp"
+    },
+    {
+        "id": 3,
+        "name":" tulsi juice",
+        "price": 290,
+        "image": "tulsijuice.webp"
+    },
+    {
+        "id": 4,
+        "name":" pain relief spray",
+        "price": 200,
+        "image": "painreliefspray.webp"
+    },
+    {
+        "id": 5,
+        "name":" Moov",
+        "price": 300,
+        "image": "moov.webp"
+    },
+    {
+        "id": 6,
+        "name":" adult Diaper",
+        "price": 200,
+        "image": "adultdiaper.webp"
+    },
+    {
+        "id": 7,
+        "name":" Knee cap",
+        "price": 200,
+        "image": "kneecap.webp"
+    },
+    {
+        "id": 8,
+        "name":" omnigel.webp",
+        "price": 200,
+        "image": "omnigel.webp"
+    }
+    
+
+
+
+]

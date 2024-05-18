@@ -1,0 +1,120 @@
+[
+    {
+        "id": 1,
+        "name":" ashwagandha",
+        "price": 200,
+        "image": "ashwagandha.webp"
+    },
+    {
+        "id": 2,
+        "name":" Drum Stick",
+        "price": 250,
+        "image": "pic.webp"
+    },
+    {
+        "id": 3,
+        "name":" karela juice",
+        "price": 290,
+        "image": "karelajuice.webp"
+    },
+    {
+        "id": 4,
+        "name":" paracetomol",
+        "price": 200,
+        "image": "para.webp"
+    },
+    {
+        "id": 5,
+        "name":" Biotin",
+        "price": 300,
+        "image": "biotin.webp"
+    },
+    {
+        "id": 6,
+        "name":" calcium Juice",
+        "price": 200,
+        "image": "calciummgjuice.webp"
+    },
+    {
+        "id": 7,
+        "name":" diabetic protein powder",
+        "price": 200,
+        "image": "diabeticpowderprotein.webp"
+    },
+    {
+        "id": 8,
+        "name":" Fish Oil",
+        "price": 200,
+        "image": "fishoil.webp"
+    },
+    {
+        "id": 9,
+        "name":" oil",
+        "price": 200,
+        "image": "fishoil.webp"
+    },
+    {
+        "id": 10,
+        "name":" Vapourizer",
+        "price": 200,
+        "image": "all in one vapourizer.webp"
+    },
+
+  
+
+    {
+        "id": 11,
+        "name":" LD08 LOUNGE CHAIR",
+        "price": 200,
+        "image": "para.webp"
+    },
+
+    {
+        "id": 12,
+        "name":" LD08 LOUNGE CHAIR",
+        "price": 200,
+        "image": "fishoil.webp"
+    },
+
+    {
+        "id": 13,
+        "name":" Joint Support",
+        "price": 200,
+        "image": "jointsupport.webp"
+    },
+
+   
+
+    {
+        "id": 14,
+        "name":" pain Reliuef Balm",
+        "price": 300,
+        "image": "Painrelief balm.webp"
+    }
+,
+    {
+        "id": 15,
+        "name":" Fish oIl",
+        "price": 400,
+        "image": "fishoil.webp"
+    }
+,
+    
+
+    {
+        "id": 16,
+        "name":" Lpainreliefgel",
+        "price": 200,
+        "image": "painreliefgel.webp"
+    }
+,
+    {
+        "id": 17,
+        "name":" paracetmol",
+        "price": 200,
+        "image": "para.webp"
+    }
+
+
+
+]

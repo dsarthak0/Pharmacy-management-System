@@ -1,0 +1,74 @@
+/* styles.css */
+
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f7f7f7;
+}
+
+/* Container styles */
+.container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* Heading styles */
+h1, h2, h3 {
+    color: #333;
+}
+
+/* Search bar styles */
+#searchBar {
+    width: 300px;
+}
+
+/* Offer details styles */
+ul {
+    list-style-type: none;
+    padding-left: 20px;
+}
+
+/* Categories styles */
+.row .col-md-4 {
+    margin-bottom: 20px;
+}
+
+/* Social media links styles */
+.list-inline {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.list-inline li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.list-inline li a {
+    color: #333;
+}
+
+.list-inline li a:hover {
+    color: #ff6f61; /* Change color on hover */
+}
+
+/* Footer styles */
+.footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 50px;
+}
+
+/* Custom CSS */
+.categories .col-md-2 {
+    padding: 0 15px; /* Add space between categories */
+}
+
+.categories img {
+    width: 100%; /* Make images fill their container */
+    height: auto; /* Maintain aspect ratio */
+}

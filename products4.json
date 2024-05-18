@@ -1,0 +1,85 @@
+[
+    {
+        "id": 1,
+        "name":"Venusia Moisturizing Cream",
+        "price": 200,
+        "image": "sk1.webp"
+    },
+    {
+        "id": 2,
+        "name":" Sunscreen",
+        "price": 250,
+        "image": "sk2.webp"
+    },
+    {
+        "id": 3,
+        "name":" Himalaya face wash",
+        "price": 290,
+        "image": "sk3.webp"
+    },
+    {
+        "id": 4,
+        "name":" Moistuizer",
+        "price": 200,
+        "image": "sk4.webp"
+    },
+    {
+        "id": 5,
+        "name":" Himalaya soap",
+        "price": 300,
+        "image": "sk5.webp"
+    },
+    {
+        "id": 6,
+        "name":"facial wipes",
+        "price": 200,
+        "image": "sk6.webp"
+    },
+    {
+        "id": 7,
+        "name":" Nycil",
+        "price": 200,
+        "image": "sk7.webp"
+    },
+    {
+        "id": 8,
+        "name":" Aloe Vera",
+        "price": 200,
+        "image": "sk8.webp"
+    }
+    ,
+    {
+        "id": 9,
+        "name":" skin Lotion",
+        "price": 200,
+        "image": "sk9.webp"
+    }
+    
+    ,
+    {
+        "id": 10,
+        "name":" Face wash gel",
+        "price": 200,
+        "image": "sk10.webp"
+    }
+    
+    ,
+    {
+        "id": 11,
+        "name":" Veet",
+        "price": 200,
+        "image": "sk12.webp"
+    }
+    ,
+    {
+        "id": 12,
+        "name":"baby Powder",
+        "price": 200,
+        "image": "sk12.webp"
+    }
+]
+    
+    
+
+
+
